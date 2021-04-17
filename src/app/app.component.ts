@@ -9,7 +9,7 @@ export class AppComponent implements OnInit{
   title = 'LoginApplication';
 
   ngOnInit(){
-
+     console.log("hello");
   }
 
   onLoginClick(data){}
